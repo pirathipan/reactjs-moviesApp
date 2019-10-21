@@ -4,4 +4,4 @@
 2 : sereur localhost:3000
     npm start
 
-petit probleme avec le button ferme le modale 
+petit problème avec le bouton de fermeture d'une fenêtre modale qu'il ne fonctione pas
